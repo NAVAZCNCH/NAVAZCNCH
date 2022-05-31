@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5c0d32d64cde7a04e842cfc1/1546847044836-9YLY3MKJSFNYVO8MWEMQ/loading+gif.gif)
+![MasterHead](https://images.squarespace-cdn.com/content/v1/5c0d32d64cde7a04e842cfc1/1546847044836-9YLY3MKJSFNYVO8MWEMQ/loading+gif.gif)
 <h1 align="center">Hi 👋, I'm Navaz Chilakala</h1>
 <h3 align="center">A passionate coder and developer from India</h3>
 
